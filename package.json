@@ -1,7 +1,7 @@
 {
-  "name": "phaser3-typescript-template",
-  "version": "1.0.1",
-  "description": "A Phaser 3 TypeScript Template",
+  "name": "moon-team-basic-phaser-3-template-typescript",
+  "version": "0.1.1",
+  "description": "Template básico para Phaser 3 en TypeScript",
   "scripts": {
     "build:dev": "webpack --env dev",
     "build:prod": "webpack --env prod",
@@ -10,13 +10,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/wtravO/phaser3-typescript-template.git"
+    "url": "https://github.com/judlup/Phaser3ts-template.git"
   },
-  "author": "Travis O'Neal",
+  "author": "Moon Team",
   "license": "MIT",
   "licenseUrl": "http://www.opensource.org/licenses/mit-license.php",
   "bugs": {
-    "url": "https://github.com/wtravO/phaser3-typescript-template/issues"
+    "url": "https://github.com/judlup/Phaser3ts-template/issues"
   },
   "devDependencies": {
     "@types/node": "^10.17.19",

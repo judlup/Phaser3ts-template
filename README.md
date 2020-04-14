@@ -1,20 +1,20 @@
-# Phaser 3 TypeScript/Webpack Project Template
+# Moon Team - Template Phaser 3 TypeScript
 
-A Phaser 3 TypeScript Template
+Template base para proyectos con Phaser 3 con webpack
 
-### Requirements
+## Instalación
 
-We need [Node.js](https://nodejs.org) to install and run scripts.
 
-## Install and run
-
-Run next commands in your terminal:
-
-| Command | Description |
+| Comando | Descripción |
 |---------|-------------|
-| `npm install` | Install dependencies and launch browser with examples.|
-| `npm run build:dev` | Builds a unminified copy of your game, with source maps, for debugging purposes. |
-| `npm run build:prod` | Builds a minified copy of your game without source maps for production use. |
-| `npm start` | Launch browser of choice and navigate to [http://localhost:8080/](http://localhost:8080/). <br> Press `Ctrl + C` in NodeJS terminal to kill **webpack-dev-server** process. |
+| `npm install` | Instalar dependencias.|
+| `npm run build:dev` | Compila el código sin minificarlo. |
+| `npm run build:prod` | Compila el código minificándolo. |
+| `npm start` | Inicia el proyecto [http://localhost:8080/](http://localhost:8080/). <br> Presiona `Ctrl + C` en la terminal para finalizar |
 =======
 
+- - -
+
+(@Judlup)[https://twitter.com/judlup]
+
+(@Lmejiaf2)[https://twitter.com/lmejiaf2]
