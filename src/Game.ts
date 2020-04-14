@@ -7,7 +7,7 @@ const config: GameConfig = {
     parent: "canvas",    
     width: 960,
     height: 540,
-    scaleMode: Phaser.Scale.FIT,    
+    scaleMode: Phaser.ScaleModes.LINEAR,    
     physics: {
         default: 'arcade', 
         arcade: {

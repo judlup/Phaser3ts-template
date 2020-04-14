@@ -2,8 +2,6 @@
 
 A Phaser 3 TypeScript Template
 
-Modeled after [Phaser 3 Project Template for wtrav0](https://github.com/wtravO/phaser3-typescript-template)
-
 ### Requirements
 
 We need [Node.js](https://nodejs.org) to install and run scripts.

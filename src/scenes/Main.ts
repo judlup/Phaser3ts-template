@@ -4,14 +4,13 @@ export class Main extends Phaser.Scene {
     }
 
     create() {
+
+        // esto lo puedes borrar
         const logo = this.add.sprite(this.sys.canvas.width / 2, this.sys.canvas.height / 2, 'sheet1', 'phaser-logo');
         
-        const music = this.sound.add('DOG');
-        this.input.on('pointerdown', (pointer: Phaser.Input.Pointer) => {
-            if (!music.isPlaying) {
-                music.play();
-            }
 
+        this.input.on('pointerdown', (pointer: Phaser.Input.Pointer) => {
+           
             logo.setPosition(pointer.x, pointer.y);
         });
     }
