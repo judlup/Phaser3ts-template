@@ -15,6 +15,6 @@ Template base para proyectos con Phaser 3 con webpack
 
 - - -
 
-(@Judlup)[https://twitter.com/judlup]
+[@Judlup](https://twitter.com/judlup)
 
-(@Lmejiaf2)[https://twitter.com/lmejiaf2]
+[@Lmejiaf2](https://twitter.com/lmejiaf2)
